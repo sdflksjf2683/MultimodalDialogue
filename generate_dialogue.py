@@ -467,7 +467,7 @@ def main():
 
     for i in range(10):
         try:
-        ### 정보 입력
+            ### 정보 입력ij
             data = {}
             information = {}
 
