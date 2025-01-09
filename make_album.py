@@ -375,9 +375,9 @@ def make_face_acquaintance(data):
 ##########################################################################
 if __name__ == "__main__":
     data_path = '/home/chanho/Model/photo-sharing/pre_code/dataset/data_10.json'
-    API_KEY = "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"
+    API_KEY = ''
     model_name = 'gpt-4o'
-
+  
     with open(data_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 

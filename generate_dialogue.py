@@ -456,7 +456,7 @@ def main():
     with open(file_path, 'r') as file:
         relationships_list = [line.strip() for line in file.readlines()]
 
-    API_KEY = "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"
+    API_KEY = ''
     persona_path = '/home/chanho/Model/photo-sharing/pre_code/dataset/Processed_PersonaChat.json'
 
     with open(persona_path, 'r', encoding='utf-8') as file:
