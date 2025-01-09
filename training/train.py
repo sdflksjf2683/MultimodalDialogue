@@ -1,8 +1,7 @@
-from transformers import Trainer, TrainingArguments, AutoProcessor, AutoModelForSeq2SeqLM
-# from trl import SFTTrainer
-from accelerate import Accelerator
+from transformers import Trainer, AutoProcessor, AutoModelForSeq2SeqLM
+# from accelerate import Accelerator
 import torch
-from config import peft_config, args
+from config import training_args
 from data import load_and_prepare_data, collate_data
 
 # 모델 및 프로세서 로드
@@ -24,22 +23,6 @@ def train_model():
 
     # 모델 및 프로세서 로드
     model, processor = load_model_and_processor(model_id)
-    
-    training_args = TrainingArguments(
-        output_dir="./results",
-        evaluation_strategy="steps",
-        eval_steps=500,
-        logging_dir="./logs",
-        learning_rate=2e-5,
-        per_device_train_batch_size=4,
-        num_train_epochs=3,
-        save_strategy="epoch",
-        report_to="tensorboard",
-        gradient_accumulation_steps=8,  # 그라디언트 축적
-        fp16=True,  # Mixed Precision
-        dataloader_num_workers=4,  # 데이터 로딩 워커 수
-        save_total_limit=2,  # 저장할 체크포인트 수 제한
-    )
 
     trainer = Trainer(
         model=model,
