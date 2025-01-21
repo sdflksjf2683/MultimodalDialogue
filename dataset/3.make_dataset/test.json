@@ -1,0 +1,692 @@
+[
+    {
+        "date": "Sunday, March 24, 2024, 07:18:33 AM",
+        "messages": [
+            {
+                "speaker": "Daniel",
+                "text": "Good morning, Emily. How was your flight? I hope you weren't too jetlagged after your journey across the pond.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "Morning, Daniel! Actually, the flight was quite enjoyable. You won't believe this, but I spotted a cloud up there that reminded me of your Labrador, Max, chasing a seagull. It was quite a sight!",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Daniel Thompson-Emily Carter/Emily Carter/Emily Carter-landscape-2024-03-23 6:23 PM.png",
+                "photo_description": "A stunning cockpit photo capturing a whimsical cloud formation at sunset, resembling Max, Daniel's Labrador, chasing a seagull.",
+                "people": "landscape",
+                "day": "2024-03-23 6:23 PM"
+            },
+            {
+                "speaker": "Daniel",
+                "text": "That's incredible, Emily! It really does look like Max playing in the sky. Such a lively imagination you have; no wonder your stories brighten up our yoga breaks.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "Thanks, Daniel. Speaking of Max, how's he been? I bet he's been busy splashing around the waves as usual.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Daniel",
+                "text": "Oh, absolutely. Just yesterday, we were at Sombrero Beach. Max had a great time chasing after the waves. Here's a little memory from our day.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Daniel",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Daniel Thompson-Emily Carter/Daniel Thompson/Daniel-people-2024-03-23 5:18 PM.png",
+                "photo_description": "A playful photo of Max, Daniel’s beloved Labrador, joyfully splashing in the waves at Sombrero Beach.",
+                "people": "Max",
+                "day": "2024-03-23 5:18 PM"
+            },
+            {
+                "speaker": "Emily",
+                "text": "Hahaha, look at that enthusiasm! Max seems like he’s living his best life. Sombrero Beach looks like such a serene place; no wonder you find inspiration there.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Daniel",
+                "text": "It's a perfect escape for both of us. Speaking of inspiration, I've been working on some new sketches at Bahia Honda State Park. The sunsets have been particularly vibrant lately.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "I can only imagine! Your sketches always capture the essence so beautifully. It's like seeing the Keys through your eyes. Oh, and guess what? Lily and Oliver had a baking adventure, and they insisted on using lavender, inspired by you!",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Daniel Thompson-Emily Carter/Emily Carter/Emily-people-2024-03-23 3:05 PM.png",
+                "photo_description": "A cheerful photo of Emily’s children, Lily and Oliver, proudly displaying their homemade lavender cookies, inviting \"Uncle Danny\" to taste their creations.",
+                "people": "Lily, Oliver",
+                "day": "2024-03-23 3:05 PM"
+            },
+            {
+                "speaker": "Daniel",
+                "text": "Those lavender cookies look delightful! Your children have baking skills. Please tell them I'd love to try some when we next meet.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "They’d be thrilled! We're a baking family after all. And speaking of family activities, I was thinking—what about us attending a yoga retreat? It could be a refreshing change of scenery and great for new stories and sketches.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Daniel",
+                "text": "That's a fantastic idea, Emily. A retreat would offer new poses and inspire fresh sketches. Plus, it’d be insightful to experience it together.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "Exactly! Your sketches capturing the retreat would make for a lovely keepsake. And I’d love to hear your perspectives on the new environment. Our regular classes have such a special rhythm, though this would be an adventure.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Daniel",
+                "text": "True, our classes are special. This sounds like a unique journey we can share. It'll be a story for you to tell and something new to capture in my art.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "Perfect! I’m already excited about the idea. I’ll keep you posted on the details, and maybe we can plan our schedules around it.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Daniel",
+                "text": "Looking forward to it, Emily. Our different worlds blend so well in these shared experiences, don't they?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "They really do, Daniel. Despite living in such varied spheres, it's the shared love for yoga, art, and stories that bring us together. Thanks for always listening to my tales with such interest.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Daniel",
+                "text": "And thank you for bringing such lively stories and energy into our discussions. It truly enriches the quiet moments I appreciate. Until our next class, take care, Emily.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Emily",
+                "text": "",
+                "photo_url": null,
+                "photo_description": null
+            }
+        ],
+        "prompt": "Daniel: Good morning, Emily. How was your flight? I hope you weren't too jetlagged after your journey across the pond.\n\nEmily: Morning, Daniel! Actually, the flight was quite enjoyable. You won't believe this, but I spotted a cloud up there that reminded me of your Labrador, Max, chasing a seagull. It was quite a sight!\n\nEmily:<turn><landscape><2024-03-23 6:23 PM><A stunning cockpit photo capturing a whimsical cloud formation at sunset, resembling Max, Daniel's Labrador, chasing a seagull.>\n\nDaniel: That's incredible, Emily! It really does look like Max playing in the sky. Such a lively imagination you have; no wonder your stories brighten up our yoga breaks.\n\nEmily: Thanks, Daniel. Speaking of Max, how's he been? I bet he's been busy splashing around the waves as usual.\n\nDaniel: Oh, absolutely. Just yesterday, we were at Sombrero Beach. Max had a great time chasing after the waves. Here's a little memory from our day.\n\nDaniel:<turn><Max><2024-03-23 5:18 PM><A playful photo of Max, Daniel’s beloved Labrador, joyfully splashing in the waves at Sombrero Beach.>\n\nEmily: Hahaha, look at that enthusiasm! Max seems like he’s living his best life. Sombrero Beach looks like such a serene place; no wonder you find inspiration there.\n\nDaniel: It's a perfect escape for both of us. Speaking of inspiration, I've been working on some new sketches at Bahia Honda State Park. The sunsets have been particularly vibrant lately.\n\nEmily: I can only imagine! Your sketches always capture the essence so beautifully. It's like seeing the Keys through your eyes. Oh, and guess what? Lily and Oliver had a baking adventure, and they insisted on using lavender, inspired by you!\n\nEmily:<turn><Lily, Oliver><2024-03-23 3:05 PM><A cheerful photo of Emily’s children, Lily and Oliver, proudly displaying their homemade lavender cookies, inviting \"Uncle Danny\" to taste their creations.>\n\nDaniel: Those lavender cookies look delightful! Your children have baking skills. Please tell them I'd love to try some when we next meet. \n\nEmily: They’d be thrilled! We're a baking family after all. And speaking of family activities, I was thinking—what about us attending a yoga retreat? It could be a refreshing change of scenery and great for new stories and sketches.\n\nDaniel: That's a fantastic idea, Emily. A retreat would offer new poses and inspire fresh sketches. Plus, it’d be insightful to experience it together.\n\nEmily: Exactly! Your sketches capturing the retreat would make for a lovely keepsake. And I’d love to hear your perspectives on the new environment. Our regular classes have such a special rhythm, though this would be an adventure.\n\nDaniel: True, our classes are special. This sounds like a unique journey we can share. It'll be a story for you to tell and something new to capture in my art.\n\nEmily: Perfect! I’m already excited about the idea. I’ll keep you posted on the details, and maybe we can plan our schedules around it. \n\nDaniel: Looking forward to it, Emily. Our different worlds blend so well in these shared experiences, don't they?\n\nEmily: They really do, Daniel. Despite living in such varied spheres, it's the shared love for yoga, art, and stories that bring us together. Thanks for always listening to my tales with such interest.\n\nDaniel: And thank you for bringing such lively stories and energy into our discussions. It truly enriches the quiet moments I appreciate. Until our next class, take care, Emily.\n\nEmily: You too, Daniel. See you at our next yoga session!",
+        "last_speaker": "Emily",
+        "utterance": "You too, Daniel. See you at our next yoga session!"
+    },
+    {
+        "date": "Sunday, July 03, 2022, 08:39:59 AM",
+        "messages": [
+            {
+                "speaker": "Lucas",
+                "text": "Morning, Maya! How's life in the bustling capital today? Are you still charmed by the history at your doorstep?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maya",
+                "text": "Hey Lucas! Definitely, the allure of D.C. never fades. I took a morning stroll past the Lincoln Memorial yesterday—it's always inspiring. How's the Rocky Mountain air treating you?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Lucas",
+                "text": "It's like a breath of fresh clarity, every single day. Speaking of which, I just got back from an early hike on the Flatiron trails at Chautauqua Park. The views were simply breathtaking!",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Lucas",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Lucas Meyer-Maya Nolan/Lucas Meyer/Lucas Meyer-landscape-2022-07-02 6:30 AM.png",
+                "photo_description": "A serene shot capturing the sun rising over the Rocky Mountains, bathed in hues of orange and pink, with the Flatiron trails leading into the distance.",
+                "people": "landscape",
+                "day": "2022-07-02 6:30 AM"
+            },
+            {
+                "speaker": "Maya",
+                "text": "Wow, that looks stunning, Lucas! The mountains look majestic in the morning light. I wish I were there. It's definitely a contrast from the cityscape here. Speaking of cityscapes, I recently attended a press event downtown and it was quite the spectacle.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maya",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Lucas Meyer-Maya Nolan/Maya Nolan/Maya Nolan-landscape-2022-06-30 10:00 AM.png",
+                "photo_description": "A vibrant cityscape of downtown D.C., featuring the iconic Washington Monument against a backdrop of bustling streets and historic buildings.",
+                "people": "landscape",
+                "day": "2022-06-30 10:00 AM"
+            },
+            {
+                "speaker": "Lucas",
+                "text": "That's such a lively shot, Maya! The energy of D.C. is palpable even through a photo. It reminds me how different our lives are yet how connected we remain. By the way, any new blues gigs recently?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maya",
+                "text": "Absolutely! I went to Blues Alley last night. The vibe was unforgettable, and the music, as always, just what I needed. There's nothing quite like unwinding to some soulful tunes. Have you been experimenting with any new recipes lately?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Lucas",
+                "text": "Funny you ask! I just tried a farm-to-table twist on a classic ratatouille. Felt like my culinary school days all over again. Here's a glimpse of the masterpiece before it got devoured.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Lucas",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Lucas Meyer-Maya Nolan/Lucas Meyer/Lucas-people-2022-06-29 7:15 PM.png",
+                "photo_description": "A vibrant photo of me proudly holding a colorful dish of fresh, layered ratatouille garnished with herbs, straight from the garden.",
+                "people": "me",
+                "day": "2022-06-29 7:15 PM"
+            },
+            {
+                "speaker": "Maya",
+                "text": "That looks delicious, Lucas! You’ve outdone yourself. I just might have to swing by Colorado for a taste-test. On the food front here, I finally tried that quinoa salad at Busboys and Poets. It was divine!",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Lucas",
+                "text": "You'll have to give me the details next time. Maybe I can recreate it with a Lucas twist! By the way, remember our school trip to the museum? I found a picture from that day while sorting photos.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Lucas",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Lucas Meyer-Maya Nolan/Lucas Meyer/Lucas-people-2009-05-12 3:00 PM.png",
+                "photo_description": "A nostalgic photo of Maya and me, both wearing school uniforms and laughing in front of a dinosaur exhibit at the museum.",
+                "people": "me,Maya",
+                "day": "2009-05-12 3:00 PM"
+            },
+            {
+                "speaker": "Maya",
+                "text": "Oh my gosh, look at us! Those were simpler times, weren't they? The laughter, the adventures—we've come so far from those days. It's amazing how our friendship has flourished through all these years.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Lucas",
+                "text": "Truly, Maya. Our bond is timeless, no matter the distance or the paths we've chosen. I'm grateful for every laugh and every shared story. You're a gem.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maya",
+                "text": "Right back at you, Lucas. I've always valued our connection. Speaking of which, I have a piece coming out soon on the cultural evolution of D.C.—I'll send you a copy. It's got some interesting insights.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Lucas",
+                "text": "I’m looking forward to it! Your perspective always makes for an engaging read. Can't wait to see what you've unraveled this time. Maybe we can discuss it over a virtual cuppa soon?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maya",
+                "text": "Sounds perfect. I’ll pencil it in my schedule. And next time, I promise to send a clip of the blues gig—it'll make you feel like you're right there with me.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Lucas",
+                "text": "That would be fantastic, Maya. Until then, keep sharing those vibrant city stories. They add a spark to my mountain moments. Take care!",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maya",
+                "text": "",
+                "photo_url": null,
+                "photo_description": null
+            }
+        ],
+        "prompt": "Lucas: Morning, Maya! How's life in the bustling capital today? Are you still charmed by the history at your doorstep?\n\nMaya: Hey Lucas! Definitely, the allure of D.C. never fades. I took a morning stroll past the Lincoln Memorial yesterday—it's always inspiring. How's the Rocky Mountain air treating you?\n\nLucas: It's like a breath of fresh clarity, every single day. Speaking of which, I just got back from an early hike on the Flatiron trails at Chautauqua Park. The views were simply breathtaking!\n\nLucas:<turn><landscape><2022-07-02 6:30 AM><A serene shot capturing the sun rising over the Rocky Mountains, bathed in hues of orange and pink, with the Flatiron trails leading into the distance.>\n\nMaya: Wow, that looks stunning, Lucas! The mountains look majestic in the morning light. I wish I were there. It's definitely a contrast from the cityscape here. Speaking of cityscapes, I recently attended a press event downtown and it was quite the spectacle.\n\nMaya:<turn><landscape><2022-06-30 10:00 AM><A vibrant cityscape of downtown D.C., featuring the iconic Washington Monument against a backdrop of bustling streets and historic buildings.>\n\nLucas: That's such a lively shot, Maya! The energy of D.C. is palpable even through a photo. It reminds me how different our lives are yet how connected we remain. By the way, any new blues gigs recently?\n\nMaya: Absolutely! I went to Blues Alley last night. The vibe was unforgettable, and the music, as always, just what I needed. There's nothing quite like unwinding to some soulful tunes. Have you been experimenting with any new recipes lately?\n\nLucas: Funny you ask! I just tried a farm-to-table twist on a classic ratatouille. Felt like my culinary school days all over again. Here's a glimpse of the masterpiece before it got devoured.\n\nLucas:<turn><me><2022-06-29 7:15 PM><A vibrant photo of me proudly holding a colorful dish of fresh, layered ratatouille garnished with herbs, straight from the garden.>\n\nMaya: That looks delicious, Lucas! You’ve outdone yourself. I just might have to swing by Colorado for a taste-test. On the food front here, I finally tried that quinoa salad at Busboys and Poets. It was divine!\n\nLucas: You'll have to give me the details next time. Maybe I can recreate it with a Lucas twist! By the way, remember our school trip to the museum? I found a picture from that day while sorting photos.\n\nLucas:<turn><me,Maya><2009-05-12 3:00 PM><A nostalgic photo of Maya and me, both wearing school uniforms and laughing in front of a dinosaur exhibit at the museum.>\n\nMaya: Oh my gosh, look at us! Those were simpler times, weren't they? The laughter, the adventures—we've come so far from those days. It's amazing how our friendship has flourished through all these years.\n\nLucas: Truly, Maya. Our bond is timeless, no matter the distance or the paths we've chosen. I'm grateful for every laugh and every shared story. You're a gem.\n\nMaya: Right back at you, Lucas. I've always valued our connection. Speaking of which, I have a piece coming out soon on the cultural evolution of D.C.—I'll send you a copy. It's got some interesting insights.\n\nLucas: I’m looking forward to it! Your perspective always makes for an engaging read. Can't wait to see what you've unraveled this time. Maybe we can discuss it over a virtual cuppa soon?\n\nMaya: Sounds perfect. I’ll pencil it in my schedule. And next time, I promise to send a clip of the blues gig—it'll make you feel like you're right there with me.\n\nLucas: That would be fantastic, Maya. Until then, keep sharing those vibrant city stories. They add a spark to my mountain moments. Take care!\n\nMaya: Will do, Lucas. Thanks for the serene vistas and good vibes. Enjoy Boulder’s best and talk soon!",
+        "last_speaker": "Maya",
+        "utterance": "Will do, Lucas. Thanks for the serene vistas and good vibes. Enjoy Boulder’s best and talk soon!"
+    },
+    {
+        "date": "Wednesday, November 29, 2023, 02:47:03 PM",
+        "messages": [
+            {
+                "speaker": "Maarten",
+                "text": "Hi Sofia! How's the practice going with Vivaldi's \"Spring\" from your lovely apartment view of the Bay Bridge?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "Hi Maarten! It's going well, though I still stumble in some parts. But the view helps—I swear the bridge almost keeps me in tempo.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maarten",
+                "text": "Ah, the Bay Bridge as a metronome. That's quite the co-teacher. I'll have to outdo it! Speaking of which, here's what Sweet Haven looks like today. I made a new batch of stroopwafels.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maarten",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Maarten de Vries-Sofia Chen/Maarten de Vries/Maarten de Vries-landscape-2023-11-29 2:00 PM.png",
+                "photo_description": "A delightful display of freshly made stroopwafels at Sweet Haven, neatly arranged on a wooden counter with sunlight filtering through the windows.",
+                "people": "landscape",
+                "day": "2023-11-29 2:00 PM"
+            },
+            {
+                "speaker": "Sofia",
+                "text": "Wow, those look absolutely scrumptious! Seeing them is almost as good as tasting them. Maybe I should start playing the violin in your shop for some sweet tips.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maarten",
+                "text": "You’d be serenading more than just customers then! Maybe I’ll get you a ticket to Amsterdam to play live in front of canal tourists. Speaking of breathtaking views, here's one from my last skydive adventure over the Veluwe.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maarten",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Maarten de Vries-Sofia Chen/Maarten de Vries/Maarten de Vries-landscape-2023-07-02 10:30 AM.png",
+                "photo_description": "A thrilling view from mid-skydive over the Veluwe National Park, showcasing lush greenery and the varied landscape below.",
+                "people": "landscape",
+                "day": "2023-07-02 10:30 AM"
+            },
+            {
+                "speaker": "Sofia",
+                "text": "Maarten! Jumping out of planes and making fabulous treats—how do you do it all? That view is incredible, though. It almost tempts me to add skydiving to my bucket list.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maarten",
+                "text": "You should try it sometime! Just make sure you've got someone holding stroopwafels at the landing zone. Anyway, how's the financial world treating you this week?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "Pretty hectic, actually. We've got a big forecast report due, but I'm managing. Here's where the magic—or chaos—happens!",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Maarten de Vries-Sofia Chen/Sofia Chen/Sofia Chen-landscape-2023-11-29 9:15 AM.png",
+                "photo_description": "A cozy photo of Sofia’s home office setup, complete with her violin resting on a stand by her window, overlooking the Bay Bridge.",
+                "people": "landscape",
+                "day": "2023-11-29 9:15 AM"
+            },
+            {
+                "speaker": "Maarten",
+                "text": "That’s a nice setup! You manage to blend work and music effortlessly. I see why your apartment is so inspiring. Have you thought about leveraging music to de-stress after work?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "I do! Playing the violin really helps me unwind. I think of it as a little escape, like those walks you take in Amsterdamse Bos. Speaking of which, do you have any recent miniatures you’ve made of Amsterdam’s houses?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maarten",
+                "text": "Great minds think alike! I actually finished one last weekend. Here you go.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maarten",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Maarten de Vries-Sofia Chen/Maarten de Vries/Maarten-people-2023-11-26 1:30 PM.png",
+                "photo_description": "An intricate miniature model of Amsterdam’s iconic gabled houses, crafted by me, with meticulous attention to detail in the window frames and rooftop tiles.",
+                "people": "me",
+                "day": "2023-11-26 1:30 PM"
+            },
+            {
+                "speaker": "Sofia",
+                "text": "That's beautiful, Maarten! Your attention to detail is amazing. Have you ever thought of exhibiting them, maybe alongside one of your community performances?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Maarten",
+                "text": "That's a charming idea. A fusion of my passions! I might just take you up on that suggestion. Perhaps it could inspire my audience more about Amsterdam’s culture. How are the violin classes fitting into your volunteering at the railroad museum?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "They actually tie into each other quite well. Playing is like storytelling, and guiding the tours gives me that same joy. Here's a snapshot from my latest tour.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Maarten de Vries-Sofia Chen/Sofia Chen/Sofia-people-2023-11-25 3:00 PM.png",
+                "photo_description": "A photo of me happily guiding a group tour at the California State Railroad Museum, surrounded by vintage trains and enthusiastic visitors.",
+                "people": "me",
+                "day": "2023-11-25 3:00 PM"
+            },
+            {
+                "speaker": "Maarten",
+                "text": "Your enthusiasm shines through, Sofia. It's wonderful to see your passions overlap so naturally. Keep up the fantastic work—both in your music and volunteering! Now, shall we dive into some more Vivaldi for our next lesson?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "",
+                "photo_url": null,
+                "photo_description": null
+            }
+        ],
+        "prompt": "Maarten: Hi Sofia! How's the practice going with Vivaldi's \"Spring\" from your lovely apartment view of the Bay Bridge?\n\nSofia: Hi Maarten! It's going well, though I still stumble in some parts. But the view helps—I swear the bridge almost keeps me in tempo.\n\nMaarten: Ah, the Bay Bridge as a metronome. That's quite the co-teacher. I'll have to outdo it! Speaking of which, here's what Sweet Haven looks like today. I made a new batch of stroopwafels.\n\nMaarten:<turn><landscape><2023-11-29 2:00 PM><A delightful display of freshly made stroopwafels at Sweet Haven, neatly arranged on a wooden counter with sunlight filtering through the windows.>\n\nSofia: Wow, those look absolutely scrumptious! Seeing them is almost as good as tasting them. Maybe I should start playing the violin in your shop for some sweet tips.\n\nMaarten: You’d be serenading more than just customers then! Maybe I’ll get you a ticket to Amsterdam to play live in front of canal tourists. Speaking of breathtaking views, here's one from my last skydive adventure over the Veluwe.\n\nMaarten:<turn><landscape><2023-07-02 10:30 AM><A thrilling view from mid-skydive over the Veluwe National Park, showcasing lush greenery and the varied landscape below.>\n\nSofia: Maarten! Jumping out of planes and making fabulous treats—how do you do it all? That view is incredible, though. It almost tempts me to add skydiving to my bucket list.\n\nMaarten: You should try it sometime! Just make sure you've got someone holding stroopwafels at the landing zone. Anyway, how's the financial world treating you this week?\n\nSofia: Pretty hectic, actually. We've got a big forecast report due, but I'm managing. Here's where the magic—or chaos—happens!\n\nSofia:<turn><landscape><2023-11-29 9:15 AM><A cozy photo of Sofia’s home office setup, complete with her violin resting on a stand by her window, overlooking the Bay Bridge.>\n\nMaarten: That’s a nice setup! You manage to blend work and music effortlessly. I see why your apartment is so inspiring. Have you thought about leveraging music to de-stress after work?\n\nSofia: I do! Playing the violin really helps me unwind. I think of it as a little escape, like those walks you take in Amsterdamse Bos. Speaking of which, do you have any recent miniatures you’ve made of Amsterdam’s houses?\n\nMaarten: Great minds think alike! I actually finished one last weekend. Here you go.\n\nMaarten:<turn><me><2023-11-26 1:30 PM><An intricate miniature model of Amsterdam’s iconic gabled houses, crafted by me, with meticulous attention to detail in the window frames and rooftop tiles.>\n\nSofia: That's beautiful, Maarten! Your attention to detail is amazing. Have you ever thought of exhibiting them, maybe alongside one of your community performances?\n\nMaarten: That's a charming idea. A fusion of my passions! I might just take you up on that suggestion. Perhaps it could inspire my audience more about Amsterdam’s culture. How are the violin classes fitting into your volunteering at the railroad museum?\n\nSofia: They actually tie into each other quite well. Playing is like storytelling, and guiding the tours gives me that same joy. Here's a snapshot from my latest tour.\n\nSofia:<turn><me><2023-11-25 3:00 PM><A photo of me happily guiding a group tour at the California State Railroad Museum, surrounded by vintage trains and enthusiastic visitors.>\n\nMaarten: Your enthusiasm shines through, Sofia. It's wonderful to see your passions overlap so naturally. Keep up the fantastic work—both in your music and volunteering! Now, shall we dive into some more Vivaldi for our next lesson?\n\nSofia: Absolutely, Maarten! Thanks for your encouragement and for sharing all these wonderful glimpses into your life. Can't wait for our next virtual session!",
+        "last_speaker": "Sofia",
+        "utterance": "Absolutely, Maarten! Thanks for your encouragement and for sharing all these wonderful glimpses into your life. Can't wait for our next virtual session!"
+    },
+    {
+        "date": "Monday, January 15, 2024, 03:17:03 PM",
+        "messages": [
+            {
+                "speaker": "Julia",
+                "text": "Hello, Marcus! Just finished a chapter on those pioneering women in San Francisco. Their grit and tenacity always inspire me. How's your day going?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Marcus",
+                "text": "Hey, Julia! Sounds like your stories are coming along well. My day’s been good. I had a brainstorming session for a new app, then spent lunch at Café Réveille. Grabbed your favorite latte, by the way. You'll have it ready when you get home.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Julia",
+                "text": "That's sweet of you, thanks! There's something special about that café's ambiance. I might head there tomorrow for some inspiration. Speaking of inspiration, Luna's been keeping me company all day. Her purring is surprisingly motivational.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Marcus",
+                "text": "Luna truly is one of a kind. I bet she’s missing me too! Oh, and remember when we talked about blending our genres? I was thinking about infusing some tech elements into your historical setting; what do you think?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Julia",
+                "text": "I love that idea! Maybe a hidden device from the future that falls into the hands of the pioneers, changing their course. It could be a fascinating twist. Also, check this out—I found an old photo of us at Baker Beach last year.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Julia",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Julia Wang-Marcus Lee/Julia Wang/Julia-people-2023-05-10 4:20 PM.png",
+                "photo_description": "A serene photo of Marcus, Luna, and me at Baker Beach, with the Golden Gate Bridge in the background. Luna, our beloved Siamese cat, nestles comfortably between us.",
+                "people": "me, Marcus, Luna",
+                "day": "2023-05-10 4:20 PM"
+            },
+            {
+                "speaker": "Marcus",
+                "text": "That's a great memory! Luna looks so content between us. Baker Beach has always been our spot, hasn't it? Those sand dollars you collect make our windows look like a little art gallery.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Julia",
+                "text": "They do, don't they? Little pieces of the coast inside our home. Along with my historical fiction, they remind me of life's intricacies and beauty. And I just remembered—this photo of Luna being all regal. It's from last week when she claimed the new chair as her own.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Julia",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Julia Wang-Marcus Lee/Julia Wang/Julia-people-2024-01-08 2:45 PM.png",
+                "photo_description": "A regal shot of Luna, our Siamese cat, sitting majestically on our new armchair, her eyes curiously observing her surroundings.",
+                "people": "Luna",
+                "day": "2024-01-08 2:45 PM"
+            },
+            {
+                "speaker": "Marcus",
+                "text": "Luna probably thinks we've bought that chair just for her! I wonder if she knows she's royalty in this house. Oh, and speaking of royalty, I found a new Star Trek model. Wanna see it?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Marcus",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Julia Wang-Marcus Lee/Marcus Lee/Marcus Lee-landscape-2024-01-12 3:10 PM.png",
+                "photo_description": "A detailed image of the newly acquired Starship Enterprise model, with its sleek design and tiny intricate details displayed under soft lighting.",
+                "people": "landscape",
+                "day": "2024-01-12 3:10 PM"
+            },
+            {
+                "speaker": "Julia",
+                "text": "Wow, Marcus, that's intricate! Your collection must be growing quite impressively by now. I see it as a testament to your attention to detail and passion for storytelling.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Marcus",
+                "text": "Thanks, love. Collecting these really does fuel my creativity. Imagining those cosmic adventures often spills into my writing. Maybe the pioneers in your book should meet a character with a space-faring background!",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Julia",
+                "text": "A cosmic pioneer, blending our worlds beautifully. It could add a layer of mystery and excitement to the narrative. Your sci-fi insights make my plot so much richer.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Marcus",
+                "text": "I'm glad! Our collaborative sessions push boundaries and spark new ideas. Speaking of new ideas, I captured something at the Farmers Market that reminded me of our weekly ritual.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Marcus",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Julia Wang-Marcus Lee/Marcus Lee/Marcus Lee-landscape-2024-01-13 9:30 AM.png",
+                "photo_description": "A vibrant scene at the Ferry Plaza Farmers Market, featuring colorful stalls of fresh produce and lively crowds.",
+                "people": "landscape",
+                "day": "2024-01-13 9:30 AM"
+            },
+            {
+                "speaker": "Julia",
+                "text": "I love the vibrant energy of the market! It reminds me of how we enjoy picking fresh ingredients every Saturday. It’s more than just shopping—it’s our time to explore and connect.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Marcus",
+                "text": "Exactly. Our adventures around the city, from markets to coffee shops, keep us grounded and inspired. They blend into our creative stories, bringing a bit of San Francisco into everything we do.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Julia",
+                "text": "That they do. Here’s to more adventures, collaborations, and a cozy evening awaiting us at home. Let's keep weaving our worlds together, both in life and in stories.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Marcus",
+                "text": "",
+                "photo_url": null,
+                "photo_description": null
+            }
+        ],
+        "prompt": "Julia: Hello, Marcus! Just finished a chapter on those pioneering women in San Francisco. Their grit and tenacity always inspire me. How's your day going?\n\nMarcus: Hey, Julia! Sounds like your stories are coming along well. My day’s been good. I had a brainstorming session for a new app, then spent lunch at Café Réveille. Grabbed your favorite latte, by the way. You'll have it ready when you get home.\n\nJulia: That's sweet of you, thanks! There's something special about that café's ambiance. I might head there tomorrow for some inspiration. Speaking of inspiration, Luna's been keeping me company all day. Her purring is surprisingly motivational.\n\nMarcus: Luna truly is one of a kind. I bet she’s missing me too! Oh, and remember when we talked about blending our genres? I was thinking about infusing some tech elements into your historical setting; what do you think?\n\nJulia: I love that idea! Maybe a hidden device from the future that falls into the hands of the pioneers, changing their course. It could be a fascinating twist. Also, check this out—I found an old photo of us at Baker Beach last year.\n\nJulia:<turn><me, Marcus, Luna><2023-05-10 4:20 PM><A serene photo of Marcus, Luna, and me at Baker Beach, with the Golden Gate Bridge in the background. Luna, our beloved Siamese cat, nestles comfortably between us.>\n\nMarcus: That's a great memory! Luna looks so content between us. Baker Beach has always been our spot, hasn't it? Those sand dollars you collect make our windows look like a little art gallery.\n\nJulia: They do, don't they? Little pieces of the coast inside our home. Along with my historical fiction, they remind me of life's intricacies and beauty. And I just remembered—this photo of Luna being all regal. It's from last week when she claimed the new chair as her own.\n\nJulia:<turn><Luna><2024-01-08 2:45 PM><A regal shot of Luna, our Siamese cat, sitting majestically on our new armchair, her eyes curiously observing her surroundings.>\n\nMarcus: Luna probably thinks we've bought that chair just for her! I wonder if she knows she's royalty in this house. Oh, and speaking of royalty, I found a new Star Trek model. Wanna see it?\n\nMarcus:<turn><landscape><2024-01-12 3:10 PM><A detailed image of the newly acquired Starship Enterprise model, with its sleek design and tiny intricate details displayed under soft lighting.>\n\nJulia: Wow, Marcus, that's intricate! Your collection must be growing quite impressively by now. I see it as a testament to your attention to detail and passion for storytelling.\n\nMarcus: Thanks, love. Collecting these really does fuel my creativity. Imagining those cosmic adventures often spills into my writing. Maybe the pioneers in your book should meet a character with a space-faring background!\n\nJulia: A cosmic pioneer, blending our worlds beautifully. It could add a layer of mystery and excitement to the narrative. Your sci-fi insights make my plot so much richer.\n\nMarcus: I'm glad! Our collaborative sessions push boundaries and spark new ideas. Speaking of new ideas, I captured something at the Farmers Market that reminded me of our weekly ritual.\n\nMarcus:<turn><landscape><2024-01-13 9:30 AM><A vibrant scene at the Ferry Plaza Farmers Market, featuring colorful stalls of fresh produce and lively crowds.>\n\nJulia: I love the vibrant energy of the market! It reminds me of how we enjoy picking fresh ingredients every Saturday. It’s more than just shopping—it’s our time to explore and connect.\n\nMarcus: Exactly. Our adventures around the city, from markets to coffee shops, keep us grounded and inspired. They blend into our creative stories, bringing a bit of San Francisco into everything we do.\n\nJulia: That they do. Here’s to more adventures, collaborations, and a cozy evening awaiting us at home. Let's keep weaving our worlds together, both in life and in stories.\n\nMarcus: Cheers to that, Julia. Can't wait to discuss more of our ideas over the latte I picked up for you. See you soon!",
+        "last_speaker": "Marcus",
+        "utterance": "Cheers to that, Julia. Can't wait to discuss more of our ideas over the latte I picked up for you. See you soon!"
+    },
+    {
+        "date": "Wednesday, August 21, 2024, 01:39:29 AM",
+        "messages": [
+            {
+                "speaker": "Sofia",
+                "text": "Hey Jackson, how's your evening going in San Francisco? Busy composing another masterpiece, I presume?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Jackson",
+                "text": "Hey Sofia! You know it. I've been working on this new piece that captures the tranquility of the Japanese Tea Garden. It's been quite an inspiring challenge.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "That sounds amazing. I bet the serene sounds and atmosphere there really help fuel your creativity. I actually spent my day making a new sketch in Central Park. The energy there was so vibrant, I had to capture it.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Jackson",
+                "text": "I'd love to see it! Your sketches always have such life in them. Speaking of art, Emily just finished a new mural. It's a riot of colors.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Sofia Ramirez-Jackson Liu/Sofia Ramirez/Sofia-people-2024-08-21 01:30 PM.png",
+                "photo_description": "A vibrant crayon sketch of Central Park in full bloom, with bustling crowds and lively colors that capture the essence of a sunny day in New York.",
+                "people": "me",
+                "day": "2024-08-21 01:30 PM"
+            },
+            {
+                "speaker": "Jackson",
+                "text": "Wow, Sofia, your use of colors is incredible. It really feels like I'm right there in Central Park with the crowds and the sunshine. Mind if I share Emily's work with you? I'm sure she'd appreciate your thoughts.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "I'd love to see Emily's mural! Her artwork always has such a unique and captivating style to it.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Jackson",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Sofia Ramirez-Jackson Liu/Jackson Liu/Jackson-people-2024-08-20 4:00 PM.png",
+                "photo_description": "Emily working passionately on a vibrant, abstract mural in their San Francisco apartment, her creative energy evident in her brushstrokes.",
+                "people": "Emily",
+                "day": "2024-08-20 4:00 PM"
+            },
+            {
+                "speaker": "Sofia",
+                "text": "Emily's use of color is astounding! It has such an electric vibe. You two are a power couple when it comes to creativity.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Jackson",
+                "text": "Thanks, Sofia! I'm sure she'd love to hear that. We've actually been talking about planning a trip to New York—she's considering an exhibit there.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "That would be phenomenal! New York's art scene is unlike any other. And speaking of trips, I recently had a perfect day fishing at Montauk. The ocean was so calming.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Jackson",
+                "text": "That sounds fantastic. I remember you mentioning how much you love fishing. Did you catch anything memorable?",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "",
+                "photo_url": "/home/chanho/Model/photo-sharing/Refactorizing/dataset/2.make_image/generated_images/Sofia Ramirez-Jackson Liu/Sofia Ramirez/Sofia Ramirez-landscape-2024-08-18 2:10 PM.png",
+                "photo_description": "A serene photo of Montauk Point State Park, with Sofia's fishing line cast into the shimmering Atlantic Ocean under a clear blue sky.",
+                "people": "landscape",
+                "day": "2024-08-18 2:10 PM"
+            },
+            {
+                "speaker": "Jackson",
+                "text": "That scene is breathtaking, Sofia. It must be such a peaceful escape for you. I get a similar feeling when I'm camping in Yosemite.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "Montauk is definitely my little slice of paradise. Yosemite must be magical too, especially with all the spectacular natural beauty and the night sky.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Jackson",
+                "text": "It really is. We had a clear night for stargazing last time. I'll have to show you sometime—it’s something else.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "I'd love to see it. You know, our chats always make me want to travel more. Maybe I'll make it to San Francisco soon.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Jackson",
+                "text": "That would be awesome! We'd love to host you, and I'd be thrilled to show you the local art and music scene.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Sofia",
+                "text": "That sounds like a plan. Until then, let's keep sharing these moments and inspirations. It's like traveling from our own living rooms.",
+                "photo_url": null,
+                "photo_description": null
+            },
+            {
+                "speaker": "Jackson",
+                "text": "",
+                "photo_url": null,
+                "photo_description": null
+            }
+        ],
+        "prompt": "Sofia: Hey Jackson, how's your evening going in San Francisco? Busy composing another masterpiece, I presume?\n\nJackson: Hey Sofia! You know it. I've been working on this new piece that captures the tranquility of the Japanese Tea Garden. It's been quite an inspiring challenge.\n\nSofia: That sounds amazing. I bet the serene sounds and atmosphere there really help fuel your creativity. I actually spent my day making a new sketch in Central Park. The energy there was so vibrant, I had to capture it.\n\nJackson: I'd love to see it! Your sketches always have such life in them. Speaking of art, Emily just finished a new mural. It's a riot of colors.\n\nSofia:<turn><me><2024-08-21 01:30 PM><A vibrant crayon sketch of Central Park in full bloom, with bustling crowds and lively colors that capture the essence of a sunny day in New York.>\n\nJackson: Wow, Sofia, your use of colors is incredible. It really feels like I'm right there in Central Park with the crowds and the sunshine. Mind if I share Emily's work with you? I'm sure she'd appreciate your thoughts.\n\nSofia: I'd love to see Emily's mural! Her artwork always has such a unique and captivating style to it.\n\nJackson:<turn><Emily><2024-08-20 4:00 PM><Emily working passionately on a vibrant, abstract mural in their San Francisco apartment, her creative energy evident in her brushstrokes.>\n\nSofia: Emily's use of color is astounding! It has such an electric vibe. You two are a power couple when it comes to creativity. \n\nJackson: Thanks, Sofia! I'm sure she'd love to hear that. We've actually been talking about planning a trip to New York—she's considering an exhibit there.\n\nSofia: That would be phenomenal! New York's art scene is unlike any other. And speaking of trips, I recently had a perfect day fishing at Montauk. The ocean was so calming.\n\nJackson: That sounds fantastic. I remember you mentioning how much you love fishing. Did you catch anything memorable?\n\nSofia:<turn><landscape><2024-08-18 2:10 PM><A serene photo of Montauk Point State Park, with Sofia's fishing line cast into the shimmering Atlantic Ocean under a clear blue sky.>\n\nJackson: That scene is breathtaking, Sofia. It must be such a peaceful escape for you. I get a similar feeling when I'm camping in Yosemite.\n\nSofia: Montauk is definitely my little slice of paradise. Yosemite must be magical too, especially with all the spectacular natural beauty and the night sky.\n\nJackson: It really is. We had a clear night for stargazing last time. I'll have to show you sometime—it’s something else.\n\nSofia: I'd love to see it. You know, our chats always make me want to travel more. Maybe I'll make it to San Francisco soon.\n\nJackson: That would be awesome! We'd love to host you, and I'd be thrilled to show you the local art and music scene.\n\nSofia: That sounds like a plan. Until then, let's keep sharing these moments and inspirations. It's like traveling from our own living rooms.\n\nJackson: Absolutely, Sofia. I'm grateful for our conversations. They always brighten my day.",
+        "last_speaker": "Jackson",
+        "utterance": "Absolutely, Sofia. I'm grateful for our conversations. They always brighten my day."
+    }
+]
