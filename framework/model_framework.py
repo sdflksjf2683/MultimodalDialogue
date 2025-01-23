@@ -59,17 +59,18 @@ def generate_response(model_id, processor, test_data_path):
 
             if this_turn_response == -1: #검색에 실패한 경우 이미지 생성
                 #여기서 사람이 몇 명인지에 따라 함수를 다르게 호출하는데 조건문이 너무 길어집니다.
-                generate_landscape_image(
+                this_turn_response = generate_landscape_image(
                     prompt=description,
                     negative_prompt="blurry, low quality",
                     output_filename="landscape.png"
                 )
-        
+
+            session_history.append({"image": this_turn_response})
+
         #text response일 경우
         else:
             this_turn_response = generated_text
-        
-        session_history.append({"text": this_turn_response})
+            session_history.append({"text": this_turn_response})
 
         #종료 조건 있으면 추가
         #break
