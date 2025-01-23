@@ -1,4 +1,0 @@
-transformers==4.36.2
-gradio
-torch
-Pillow
